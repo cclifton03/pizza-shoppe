@@ -1,0 +1,41 @@
+body {
+  background-color: red;
+  
+}
+
+h1 {
+  color: yellow;
+  font-size: 48px;
+  font-family: Arial, Helvitica, sans-serif; 
+  
+}
+
+h4 {
+  
+}
+
+.header {
+  background-color: black;
+  border: 2px solid red;
+  padding: 5px
+}
+
+.footer {
+  color: yellow;
+    background-color: black;
+  padding-left: 10px; 
+    
+}
+
+div{
+  border: 3px solid yellow;
+}
+
+img {
+  width: 50%
+}
+
+p, li {
+  color: white;
+  font-family: Arial, Helvitica, sans-serif;
+}
